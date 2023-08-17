@@ -8,7 +8,9 @@
 :---: | :---:
 ![Mammoth Lakes on the way to Bishop](https://github.com/nafu/nafu/assets/932290/c47734b7-0a5a-4eb6-90f6-55e97bf927d0) | ![Red Rocks](https://github.com/nafu/nafu/assets/932290/d8abcbd1-ef34-4c4f-ac41-cd8670d1e345)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nafu)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nafu&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nafu&theme=dark)](https://git.io/streak-stats)
 
 <img src="http://data.typeracer.com/misc/badge?user=nafu" alt="TypeRacer.com scorecard for user nafu">
 
