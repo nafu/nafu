@@ -10,6 +10,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nafu&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![nafu's GitHub stats](https://github-readme-stats-mu-eight-45.vercel.app/api?username=nafu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nafu&theme=dark)](https://git.io/streak-stats)
 
 <img src="http://data.typeracer.com/misc/badge?user=nafu" alt="TypeRacer.com scorecard for user nafu">
